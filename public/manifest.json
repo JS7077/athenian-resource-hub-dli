@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "short_name": "Web Resources",
+  "name": "Athenian Web Resource Hub",
+  "version": "1.0",
+  "description": "",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": []
+}

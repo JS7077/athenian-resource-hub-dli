@@ -1,0 +1,7 @@
+button {
+    border: none;
+    text-decoration: underline;
+    background-color: transparent;
+    cursor: pointer;
+    color: #0000EE;
+}
